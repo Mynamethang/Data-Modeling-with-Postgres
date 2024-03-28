@@ -1,0 +1,1 @@
+{"__version__":1,"totalSize":6613,"count":6,"data":{"create_table.py":[0,830],"data_quality.py":[0,1285],"load_dimension.py":[0,1204],"load_fact.py":[0,681],"stage_redshift.py":[0,2181],"__init__.py":[0,432]}}
